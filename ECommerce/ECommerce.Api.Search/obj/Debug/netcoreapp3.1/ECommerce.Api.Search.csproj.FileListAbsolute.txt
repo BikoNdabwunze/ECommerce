@@ -1,0 +1,235 @@
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\OneDrive - John Abbott College\Desktop\sem5\Web3\ECommerce-Repo\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\Claudiu\Downloads\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.exe
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.deps.json
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.json
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.runtimeconfig.dev.json
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.AssemblyReference.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfoInputs.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.AssemblyInfo.cs
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CoreCompileInputs.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.Manifest.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\staticwebassets\ECommerce.Api.Search.StaticWebAssets.xml
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.Search.styles.css
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.RazorTargetAssemblyInfo.cache
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.csproj.CopyComplete
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.dll
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.pdb
+C:\Users\bikon\Downloads\ECommerce-biko\ECommerce-biko\ECommerce\ECommerce.Api.Search\obj\Debug\netcoreapp3.1\ECommerce.Api.Search.genruntimeconfig.cache

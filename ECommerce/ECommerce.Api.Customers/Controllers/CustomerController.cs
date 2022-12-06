@@ -1,0 +1,47 @@
+﻿using ECommerce.Api.Customers.Interface;
+using ECommerce.Api.Customers.Providers;
+using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ECommerce.Api.Customers.Controllers
+
+{
+    [ApiController]
+    [Route("api/customers")]
+    public class CustomerController :ControllerBase
+    {
+        private readonly ICustomersProvider customerProvider;
+
+        public CustomerController(ICustomersProvider customerProvider)
+        {
+            this.customerProvider = customerProvider;
+
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetCustomerssAsync()
+        {
+            var result = await customerProvider.GetCustomersAsync();
+            if (result.isSuccess)
+            {
+                return Ok(result.Customers);
+            }
+            return NotFound();
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetCustomerAsync(int id)
+        {
+            var result = await customerProvider.GetCustomerAsync(id);
+            if (result.isSuccess)
+            {
+                return Ok(result.Customer);
+            }
+            return NotFound();
+
+        }
+    }
+}
